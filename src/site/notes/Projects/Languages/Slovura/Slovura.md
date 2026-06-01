@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/languages/slovura/slovura/","tags":["gardenEntry"],"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
+{"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
 ---
 
 
