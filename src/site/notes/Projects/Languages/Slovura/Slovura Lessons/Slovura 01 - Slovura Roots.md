@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/languages/slovura/slovura-lessons/slovura-01-slovura-roots/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"]}}
+{"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 01 - Slovura Roots.md","permalink":"/slovura-lessons/slovura-01-slovura-roots/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"]}}
 ---
 
 
