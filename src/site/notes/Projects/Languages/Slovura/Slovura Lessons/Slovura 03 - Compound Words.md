@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/languages/slovura/slovura-lessons/slovura-03-compound-words/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":3,"aliases":["Compound Words"]}}
+{"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 03 - Compound Words.md","permalink":"/slovura-lessons/slovura-03-compound-words/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":3,"aliases":["Compound Words"]}}
 ---
 
 

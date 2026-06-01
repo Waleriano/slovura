@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/languages/slovura/slovura-lessons/slovura-02-basic-sentence-structure/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":2}}
+{"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 02 - Basic Sentence Structure.md","permalink":"/slovura-lessons/slovura-02-basic-sentence-structure/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":2}}
 ---
 
 
