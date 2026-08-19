@@ -8,7 +8,7 @@
 
 ```base
 formulas:
-  prefix: file.name.reverse().slice(1).reverse()
+  prefix: file.name.replace("a","").replace("e","").replace("i","").replace("o","").replace("u","")
 properties:
   note.meaning:
     displayName: Meaning
