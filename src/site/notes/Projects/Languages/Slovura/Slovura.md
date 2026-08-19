@@ -1,5 +1,5 @@
 ---
-{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful","dg-home":true,"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
+{"roots":["[[slovura_root_slo\|slo]]","[[slovura_root_vu\|vu]]","[[slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful","dg-home":true,"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"roots":["[[slovura_root_slo\|slo]]","[[slovura_root_vu\|vu]]","[[slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
 ---
 
 
@@ -21,11 +21,11 @@ Slovura follows the minimalist semantic logic of Toki Pona but optimizes for bre
 
 The name **Slovura** is a [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|compound word]]:
 
-1. **[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]**: Say, speech, language (from Czech slovo).
+1. **[[slovura_root_slo\|slo]]**: Say, speech, language (from Czech slovo).
 
-2. **[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]**: Cut, divide, part (from English divulsion).
+2. **[[slovura_root_vu\|vu]]**: Cut, divide, part (from English divulsion).
 
-3. **[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]**: Can, possible (from Latin ratio).
+3. **[[slovura_root_ra\|ra]]**: Can, possible (from Latin ratio).
 
 Combined, it translates to **"The language of useful parts."**
 

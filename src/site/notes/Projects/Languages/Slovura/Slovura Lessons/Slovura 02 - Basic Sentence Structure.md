@@ -8,13 +8,13 @@
 The basic sentence structure in [[Projects/Languages/Slovura/Slovura\|Slovura]] is exactly the same as in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]], including the same words separating subject, verb and object.
 
 > [!note] Basic Slovura Sentence Structure
-> subject [[Projects/Languages/Slovura/Slovura Roots/slovura_root_li\|li]] verb ([[Projects/Languages/Slovura/Slovura Roots/slovura_root_e\|e]] object).
+> subject [[slovura_root_li\|li]] verb ([[slovura_root_e\|e]] object).
 
 > [!example] Example
-> [[Projects/Languages/Slovura/Slovura Roots/slovura_root_mi\|mi]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_li\|li]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_mo\|mo]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_e\|e]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_fru\|fru]].
+> [[slovura_root_mi\|mi]] [[slovura_root_li\|li]] [[slovura_root_mo\|mo]] [[slovura_root_e\|e]] [[slovura_root_fru\|fru]].
 > I eat fruit.
 
-Unlike in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]] where li is left out if the subject is just first or second person singular, [[Projects/Languages/Slovura/Slovura Roots/slovura_root_li\|li]] in [[Projects/Languages/Slovura/Slovura\|Slovura]] is never omitted.
+Unlike in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]] where li is left out if the subject is just first or second person singular, [[slovura_root_li\|li]] in [[Projects/Languages/Slovura/Slovura\|Slovura]] is never omitted.
 
 ### Subject
 
@@ -22,13 +22,13 @@ The subject is the main actor or actors in a sentence, like the main character
 
 The subject can be a word or a phrase; a person or an object or anything really. What's important is that we describe what the subject is or is doing.
 
-Multiple subjects are joined with the particle [[Projects/Languages/Slovura/Slovura Roots/slovura_root_i\|i]].
+Multiple subjects are joined with the particle [[slovura_root_i\|i]].
 
 > [!note] Separating multiple subjects
-> subject [[Projects/Languages/Slovura/Slovura Roots/slovura_root_i\|i]] subject [[Projects/Languages/Slovura/Slovura Roots/slovura_root_li\|li]] verb ([[Projects/Languages/Slovura/Slovura Roots/slovura_root_e\|e]] object).
+> subject [[slovura_root_i\|i]] subject [[slovura_root_li\|li]] verb ([[slovura_root_e\|e]] object).
 
 > [!example] Example
-> [[Projects/Languages/Slovura/Slovura Roots/slovura_root_mi\|mi]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_i\|i]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_le\|le]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_li\|li]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_me\|me]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_e\|e]] [[Projects/Languages/Slovura/Slovura Roots/slovura_root_flo\|flo]].
+> [[slovura_root_mi\|mi]] [[slovura_root_i\|i]] [[slovura_root_le\|le]] [[slovura_root_li\|li]] [[slovura_root_me\|me]] [[slovura_root_e\|e]] [[slovura_root_flo\|flo]].
 > Me and her have money.
 
 ### Predicate

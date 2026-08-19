@@ -8,8 +8,7 @@
 
 ```base
 formulas:
-  Root: '"[[" + file.name + "|" + note.aliases[0] + "]]"'
-  prefix: file.name.replace(/slovura_root_/, "").reverse().slice(1).reverse()
+  prefix: file.name.reverse().slice(1).reverse()
 properties:
   note.meaning:
     displayName: Meaning
@@ -24,17 +23,14 @@ views:
       and:
         - file.inFolder("Projects/Languages/Slovura/Slovura Roots")
     order:
-      - formula.Root
+      - file.name
       - meaning
       - toki-pona
       - origin
     sort:
-      - property: meaning
-        direction: ASC
       - property: formula.prefix
         direction: ASC
     columnSize:
-      formula.Root: 240
       note.meaning: 217
       note.toki-pona: 104
       note.origin: 164
