@@ -8,7 +8,7 @@
 
 ```base
 formulas:
-  Root: note.aliases[0]
+  Root: '"[[" + file.name + "|" + note.aliases[0] + "]]"'
   prefix: file.name.replace(/slovura_root_/, "").reverse().slice(1).reverse()
 properties:
   note.meaning:
@@ -29,9 +29,12 @@ views:
       - toki-pona
       - origin
     sort:
+      - property: meaning
+        direction: ASC
       - property: formula.prefix
         direction: ASC
     columnSize:
+      formula.Root: 240
       note.meaning: 217
       note.toki-pona: 104
       note.origin: 164
