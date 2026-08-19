@@ -8,7 +8,7 @@
 
 ```base
 formulas:
-  Root: link(file.name, aliases[0])
+  Root: link(file.name, note.aliases[0])
   prefix: file.name.replace(/slovura_root_/, "").reverse().slice(1).reverse()
 properties:
   note.meaning:
