@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
+{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful","dg-home":true,"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slovura_root_slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/slovura_root_ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
 ---
 
 
 # [[Projects/Languages/Slovura/Slovura\|Slovura]]
 
-Slovura is a monosyllabic constructed language (conlang) derived from [Toki Pona]] and **Kawaba**.
+Slovura is a monosyllabic constructed language (conlang) derived from [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]] and **Kawaba**.
 
 ## Philosophy and Structure
 

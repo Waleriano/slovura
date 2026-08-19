@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 01 - Slovura Roots.md","permalink":"/slovura-lessons/slovura-01-slovura-roots/","tags":["slovura","lesson"],"dg-note-properties":{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"]}}
+{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 01 - Slovura Roots.md","permalink":"/slovura-lessons/slovura-01-slovura-roots/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"]}}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ```base
 formulas:
-  Root: link(file.name, file.name.replace(/slovura_root_/, ""))
+  Root: link(file.name, aliases)
   prefix: file.name.replace(/slovura_root_/, "").reverse().slice(1).reverse()
 properties:
   note.meaning:
@@ -18,14 +18,6 @@ properties:
   note.origin:
     displayName: Origin
 views:
-  - type: table
-    name: WordRoots
-    filters:
-      and:
-        - this.roots.Contains(file.asLink())
-    order:
-      - formula.Root
-      - meaning
   - type: table
     name: AllRoots
     filters:
