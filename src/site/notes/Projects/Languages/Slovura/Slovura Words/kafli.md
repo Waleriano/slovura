@@ -1,5 +1,5 @@
 ---
-{"meaning":"brown","logic":"colour + ground","roots":["[[ku]]","[[ma]]"],"tags":["slovura","colour"],"dg-publish":true,"dg-path":"Slovura Words/kuma.md","permalink":"/slovura-words/kuma/","dgPassFrontmatter":true,"dg-note-properties":{"meaning":"brown","logic":"colour + ground","roots":["[[Projects/Languages/Slovura/Slovura Roots/ku]]","[[Projects/Languages/Slovura/Slovura Roots/ma]]"],"tags":["slovura","colour"]}}
+{"meaning":"[[Kenku]]","logic":"person + bird","roots":["[[ka]]","[[fli]]"],"tags":["slovura","RPG"],"dg-publish":true,"dg-path":"Slovura Words/kafli.md","permalink":"/slovura-words/kafli/","dgPassFrontmatter":true,"dg-note-properties":{"meaning":"[[Kenku]]","logic":"person + bird","roots":["[[Projects/Languages/Slovura/Slovura Roots/ka]]","[[Projects/Languages/Slovura/Slovura Roots/fli]]"],"tags":["slovura","RPG"]}}
 ---
 
 

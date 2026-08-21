@@ -4,9 +4,9 @@
 
 
 ```base
-formulas:
-  Word: link(file.name, file.name.replace(/slovura_word_/, ""))
 properties:
+  file.name:
+    displayName: Word
   note.meaning:
     displayName: Meaning
   note.logic:
@@ -18,9 +18,11 @@ views:
       and:
         - roots.Contains(this.file.name)
     order:
-      - formula.Word
+      - file.name
       - meaning
       - logic
+    columnSize:
+      file.name: 84
 
 ```
 
