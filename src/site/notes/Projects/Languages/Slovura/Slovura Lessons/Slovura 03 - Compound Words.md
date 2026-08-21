@@ -15,5 +15,5 @@ A compound word is essentially a miniature sentence compressed into one word.
 - **The Remainder (The Predicate):** The second syllable after the first forms the main part of the predicate. Every following syllable modifies the second syllable.
 
 Examples:
-- [[Projects/Languages/Slovura/Slovura Words/slovura_word_kaklama\|kaklama]] = person + (head of state)
+- [[slovura_word_kaklama\|kaklama]] = person + (head of state)
 - [[Projects/Languages/Slovura/Slovura Words/slovura_word_kapusta\|kapusta]] = person + (big mouth)
