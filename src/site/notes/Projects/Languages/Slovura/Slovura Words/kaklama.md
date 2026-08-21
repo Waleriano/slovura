@@ -17,22 +17,13 @@ properties:
     displayName: Origin
 views:
   - type: table
-    name: AllRoots
+    name: WordRoots
     filters:
       and:
-        - file.inFolder("Projects/Languages/Slovura/Slovura Roots")
+        - this.roots.Contains(file.asLink())
     order:
       - file.name
       - meaning
-      - toki-pona
-      - origin
-    sort:
-      - property: formula.prefix
-        direction: ASC
-    columnSize:
-      note.meaning: 217
-      note.toki-pona: 104
-      note.origin: 164
 
 ```
 
