@@ -5,34 +5,81 @@
 
 # [[Projects/Languages/Slovura/Slovura Lessons/Slovura 02 - Basic Sentence Structure\|Slovura 02 - Basic Sentence Structure]]
 
-The basic sentence structure in [[Projects/Languages/Slovura/Slovura\|Slovura]] is exactly the same as in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]], including the same words separating subject, verb and object.
+A [[Projects/Languages/Slovura/Slovura\|Slovura]] sentence is built from a few basic parts. Before looking at Slovura's grammar, it helps to understand what those parts mean.
+
+## Subject
+
+The **subject** is the person, thing or idea that the sentence is about.
+
+In the English sentence:
+
+> **I eat fruit.**
+
+**I** is the subject. It is the person doing the eating.
+
+## Predicate
+
+The **predicate** is what the sentence says about the subject.
+
+In:
+
+> I **eat fruit**.
+
+**eat fruit** is the predicate.
+
+A predicate can therefore describe what the subject **does**, **is**, or **is like**.
+
+In Slovura, the subject and predicate are separated by the particle [[Projects/Languages/Slovura/Slovura Roots/li\|li]].
+
+> [!note] Basic Slovura sentence
+> **subject** [[Projects/Languages/Slovura/Slovura Roots/li\|li]] **predicate**
+
+Unlike in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]], where [[Projects/Languages/Slovura/Slovura Roots/li\|li]] is omitted when the subject is only first- or second-person singular, **[[Projects/Languages/Slovura/Slovura Roots/li\|li]] is never omitted in Slovura**. This keeps the sentence structure regular.
+
+
+## Object
+
+Some actions affect another person or thing directly. That person or thing is called the **object**.
+
+In:
+
+> I eat **fruit**.
+
+**fruit** is the object: it is the thing being eaten.
+
+Not every sentence has an object. _"The tree is tall"_ does not need one.
+
+When a Slovura predicate contains a direct object, the particle [[Projects/Languages/Slovura/Slovura Roots/e\|e]] separates the action from that object.
+
+## Putting It Together
 
 > [!note] Basic Slovura Sentence Structure
-> subject [[slovura_root_li\|li]] verb ([[slovura_root_e\|e]] object).
+> subject [[Projects/Languages/Slovura/Slovura Roots/li\|li]] verb ([[Projects/Languages/Slovura/Slovura Roots/e\|e]] object).
 
 > [!example] Example
-> [[slovura_root_mi\|mi]] [[slovura_root_li\|li]] [[slovura_root_mo\|mo]] [[slovura_root_e\|e]] [[slovura_root_fru\|fru]].
-> I eat fruit.
+> [[Projects/Languages/Slovura/Slovura Roots/mi\|mi]] [[Projects/Languages/Slovura/Slovura Roots/li\|li]] [[Projects/Languages/Slovura/Slovura Roots/mo\|mo]] [[Projects/Languages/Slovura/Slovura Roots/e\|e]] [[Projects/Languages/Slovura/Slovura Roots/fru\|fru]].
+>
+> I · predicate marker · eat · object marker · fruit
+>
+> **I eat fruit.**
 
-Unlike in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]] where li is left out if the subject is just first or second person singular, [[slovura_root_li\|li]] in [[Projects/Languages/Slovura/Slovura\|Slovura]] is never omitted.
+`li` marks where the subject ends and the predicate begins. `e` marks where the direct object begins.
 
-### Subject
+The particles [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects/Languages/Slovura/Slovura Roots/e\|e]] do not need direct English translations. Their purpose is to show how the parts of a Slovura sentence relate to each other.
 
-The subject is the main actor or actors in a sentence, like the main character(s). In the English sentence "I eat fruit," the word "I" is the subject of the action ("fruit" is the object, the thing that is being eaten).
 
-The subject can be a word or a phrase; a person or an object or anything really. What's important is that we describe what the subject is or is doing.
+## Remember
 
-Multiple subjects are joined with the particle [[slovura_root_i\|i]].
+> [!summary]
+> - The **subject** is what the sentence is about.
+> - The **predicate** says something about the subject.
+> - An **object** is something directly affected by an action.
+> - [[Projects/Languages/Slovura/Slovura Roots/li\|li]] separates the subject from the predicate.
+> - Slovura never omits [[Projects/Languages/Slovura/Slovura Roots/li\|li]].
+> - [[Projects/Languages/Slovura/Slovura Roots/e\|e]] introduces a direct object.
+> - [[Projects/Languages/Slovura/Slovura Roots/i\|i]] joins multiple subjects.
+> - Slovura roots do not have fixed English-style parts of speech.
 
-> [!note] Separating multiple subjects
-> subject [[slovura_root_i\|i]] subject [[slovura_root_li\|li]] verb ([[slovura_root_e\|e]] object).
+## Next
 
-> [!example] Example
-> [[slovura_root_mi\|mi]] [[slovura_root_i\|i]] [[slovura_root_le\|le]] [[slovura_root_li\|li]] [[slovura_root_me\|me]] [[slovura_root_e\|e]] [[slovura_root_flo\|flo]].
-> Me and her have money.
-
-### Predicate
-
-The predicate describes the subject or what it is doing. It includes verbs and objects. In the English sentence "The person looks at the tree", "looks at the tree" is the predicate.
-
-In Slovura, the predicate can be interpreted as a [verb](https://sona.pona.la/wiki/verb "verb"), [noun](https://sona.pona.la/wiki/noun "noun"), [adjective](https://sona.pona.la/wiki/adjective "adjective"), or [prepositional phrase](https://sona.pona.la/wiki/prepositional_phrase "prepositional phrase"). (If the predicate has an [e](https://sona.pona.la/wiki/e "e"), then it is specifically a [transitive verb](https://sona.pona.la/wiki/transitive_verb "transitive verb") that the subject does to a [direct object](https://sona.pona.la/wiki/direct_object "direct object").)
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|Compound Words]] to learn how several roots can be combined into a single, more specific concept.
