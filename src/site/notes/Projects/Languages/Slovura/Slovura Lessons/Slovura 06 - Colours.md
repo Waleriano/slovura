@@ -49,4 +49,4 @@ views:
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 07 - Word Pronounciation\|Slovura 07 - Word Pronounciation]] to learn about pronounciation of Slovura words.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 07 - Word Pronunciation\|Slovura 07 - Word Pronunciation]] to learn about pronounciation of Slovura words.
