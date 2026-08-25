@@ -5,7 +5,7 @@
 
 # [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Modifiers\|Slovura 03 - Modifiers]]
 
-A Slovura root often expresses a broad concept. To make that concept more specific, another word can be placed after it as a **modifier**.
+A [[Projects/Languages/Slovura/Slovura\|Slovura]] [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|root]] often expresses a broad concept. To make that concept more specific, another word can be placed after it as a **modifier**.
 
 Slovura uses **head-first modification**.
 

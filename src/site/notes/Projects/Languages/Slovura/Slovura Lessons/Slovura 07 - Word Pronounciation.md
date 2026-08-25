@@ -5,7 +5,7 @@
 
 # [[Projects/Languages/Slovura/Slovura Lessons/Slovura 07 - Word Pronounciation\|Slovura 07 - Word Pronounciation]]
 
-By this point, you have already seen Slovura roots used both as separate words and joined together into [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound words]]. Pronunciation follows a simple rule that helps distinguish between the two.
+By this point, you have already seen [[Projects/Languages/Slovura/Slovura\|Slovura]] [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|roots]] used both as separate words and joined together into [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound words]]. Pronunciation follows a simple rule that helps distinguish between the two.
 
 ## Stress
 

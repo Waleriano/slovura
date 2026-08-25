@@ -44,7 +44,7 @@ In practice you would rarely create words that are compound of four or more root
 ## Example: `kaklama`
 
 > [!example] [[Projects/Languages/Slovura/Slovura Words/kaklama\|kaklama]]
-> **ka + (kla + ma)**
+> **[[Projects/Languages/Slovura/Slovura Roots/ka\|ka]] + ([[Projects/Languages/Slovura/Slovura Roots/kla\|kla]] + [[Projects/Languages/Slovura/Slovura Roots/ma\|ma]])**
 >
 > person + (head/control + land)
 >
@@ -57,7 +57,7 @@ The first root tells us that `kaklama` is fundamentally a **person**. The remain
 ## Example: `kapusta`
 
 > [!example] [[Projects/Languages/Slovura/Slovura Words/kapusta\|kapusta]]
-> **ka + (pu + sta)**
+> **[[Projects/Languages/Slovura/Slovura Roots/ka\|ka]] + ([[Projects/Languages/Slovura/Slovura Roots/pu\|pu]] + [[Projects/Languages/Slovura/Slovura Roots/sta\|sta]])**
 >
 > person + (mouth + big)
 >

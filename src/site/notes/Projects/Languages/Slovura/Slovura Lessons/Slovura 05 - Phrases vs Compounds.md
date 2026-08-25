@@ -67,7 +67,7 @@ The compound treats **big-land** as a single concept rather than merely describi
 
 ## Compounding Is Optional
 
-Slovura does not require roots to be compounded whenever they appear together.
+[[Projects/Languages/Slovura/Slovura\|Slovura]] does not require [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|roots]] to be compounded whenever they appear together.
 
 The speaker chooses whether the intended meaning is better expressed as a phrase or as one concept.
 
