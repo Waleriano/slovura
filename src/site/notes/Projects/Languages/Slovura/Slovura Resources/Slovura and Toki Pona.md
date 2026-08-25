@@ -13,7 +13,7 @@ More info about Toki Pona can be found [here](https://sona.pona.la/wiki/Toki_Pon
 
 ## Slovura
 
-Slovura is derived from [[Toki Pona\|Toki Pona]], and much of its grammar is intentionally compatible with it.
+Slovura is derived from Toki Pona, and much of its grammar is intentionally compatible with it.
 
 This means that learning Toki Pona provides a useful starting point for Slovura. Many Toki Pona sentences can be translated into Slovura very directly by replacing Toki Pona words with their Slovura equivalents and applying the few grammatical rules where the languages differ.
 
@@ -57,7 +57,7 @@ Direct translation is therefore mostly a matter of substituting equivalent roots
 
 ## Compounding Is Optional
 
-One of the major differences between Slovura and Toki Pona is that Slovura can combine several roots into a single [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|compound word]].
+One of the major differences between Slovura and Toki Pona is that Slovura can combine several roots into a single [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound word]].
 
 However, **compounding is optional**.
 
@@ -75,7 +75,7 @@ Instead, Slovura colours are constructed using compounds headed by [[Projects/La
 
 This is an example of an intentional difference in Slovura's vocabulary: some concepts represented by basic roots in Toki Pona are instead expressed through Slovura's compounding system.
 
-See [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Colours\|Colours]] for the colour system.
+See [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|Colours]] for the colour system.
 
 ## From Toki Pona to Slovura
 
@@ -94,7 +94,7 @@ This compatibility is intentional. A Toki Pona speaker should be able to use the
 
 At the same time, Slovura is not simply Toki Pona with shorter words.
 
-Its [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|compound system]] allows several roots to become a single structured word, while keeping that compounding optional. Slovura can therefore stay close to a Toki Pona construction or use its own compounding system when that is useful.
+Its [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound system]] allows several roots to become a single structured word, while keeping that compounding optional. Slovura can therefore stay close to a Toki Pona construction or use its own compounding system when that is useful.
 
 A useful way to think about the relationship is:
 
@@ -113,7 +113,7 @@ Knowledge of Toki Pona is not required to learn Slovura. The rest of these lesso
 > [!summary]
 > - [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects/Languages/Slovura/Slovura Roots/e\|e]] have the same function in Slovura and Toki Pona
 > - Slovura never omits [[Projects/Languages/Slovura/Slovura Roots/li\|li]].
-> - Slovura's [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|compounding]] is optional
-> - use slovura's [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Colours\|colour system]] where you would use`loje`, `laso` or `jelo`
+> - Slovura's [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compounding]] is optional
+> - use slovura's [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|colour system]] where you would use`loje`, `laso` or `jelo`
 > - you can translate a sentence from Toki Pona to Slovura just by replacing words with their equivalents
 

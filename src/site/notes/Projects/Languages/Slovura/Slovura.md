@@ -18,7 +18,7 @@ Slovura follows the minimalist semantic approach of [[Projects/Languages/Slovura
 
 ## Etymology
 
-The name **Slovura** is itself a [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|compound word]]:
+The name **Slovura** is itself a [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound word]]:
 
 1. **[[Projects/Languages/Slovura/Slovura Roots/slo\|slo]]** - say, speech, language; from Czech *slovo*
 2. **[[Projects/Languages/Slovura/Slovura Roots/vu\|vu]]** - cut, divide, part; from English *divulsion*
@@ -38,6 +38,6 @@ If you are new to Slovura, the lessons are intended to be read in order:
 
 1. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|Slovura Roots]] - list of all slovura roots for reference. Doesn't need to be memorized before continuing.
 2. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 02 - Basic Sentence Structure\|Basic Sentence Structure]] - subjects, predicates, [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects/Languages/Slovura/Slovura Roots/e\|e]].
-3. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|Compound Words]] - building complex concepts from roots
-4. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Colours\|Colours]] - a practical example of productive compounding
+3. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Compound Words]] - building complex concepts from roots
+4. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|Colours]] - a practical example of productive compounding
 

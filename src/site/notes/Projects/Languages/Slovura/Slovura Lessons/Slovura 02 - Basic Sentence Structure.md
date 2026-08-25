@@ -82,4 +82,4 @@ The particles [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|Compound Words]] to learn how several roots can be combined into a single, more specific concept.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Compound Words]] to learn how several roots can be combined into a single, more specific concept.

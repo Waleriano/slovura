@@ -16,7 +16,7 @@ Every basic Slovura root consists of **one syllable** in one of these forms:
 - **CV** - a consonant followed by a vowel
 - **CCV** - a consonant cluster followed by a vowel
 
-Roots therefore end in vowels. This becomes especially useful when roots are joined together into [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Compound Words\|compound words]]: the boundaries remain pronounceable without introducing additional sounds.
+Roots therefore end in vowels. This becomes especially useful when roots are joined together into [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound words]]: the boundaries remain pronounceable without introducing additional sounds.
 
 ## Learning the Roots
 
