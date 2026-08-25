@@ -10,7 +10,7 @@ The previous two lessons introduced two different ways of combining ideas:
 - [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Modifiers\|modifiers]] use **separate words** to describe a head;
 - [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compounds]] join roots into **one word and one concept**.
 
-The same roots can therefore express something different depending on whether they remain separate or are joined.
+The same [[roots\|roots]] can therefore express something different depending on whether they remain separate or are joined.
 
 ## `ka sta` and `kasta`
 
@@ -101,7 +101,7 @@ The same principle allows speakers to create new compounds when needed.
 
 ## An English Comparison
 
-English sometimes makes a similar distinction:
+An analygy can be found in English which sometimes makes a similar distinction:
 
 > **black bird** — a bird that happens to be black
 >
@@ -119,4 +119,4 @@ Slovura uses this distinction productively. Whether roots are separate or joined
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|Colours]] to see a practical use of compound words.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|Slovura 06 - Colours]] to see a practical use of compound words.

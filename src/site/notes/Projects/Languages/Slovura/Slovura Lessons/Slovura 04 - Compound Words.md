@@ -5,7 +5,7 @@
 
 # [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Slovura 04 - Compound Words]]
 
-[[Projects/Languages/Slovura/Slovura\|Slovura]] has a small set of basic roots, but those roots can be combined to express much more specific concepts.
+[[Projects/Languages/Slovura/Slovura\|Slovura]] has a small set of basic [[roots\|roots]], but those roots can be combined to express much more specific concepts.
 
 Unlike a normal phrase, a **compound word is written as a single word**. Its roots form an internal structure following the same basic idea as a sentence:
 
@@ -39,7 +39,7 @@ but:
 
 This grouping is important because it tells you which concept modifies which.
 
-In practice you would rarely create words that are compound of four or more roots.
+In practice, compounds of four or more roots are uncommon.
 
 ## Example: `kaklama`
 
@@ -66,16 +66,6 @@ The first root tells us that `kaklama` is fundamentally a **person**. The remain
 > **meaning: overconfident or indiscreet person**
 
 Again, `ka` establishes that the compound describes a person, while `pusta` describes that person.
-
-## A Compound Is a Choice
-
-Writing roots together changes how they are interpreted: the speaker is presenting them as **one concept**.
-
-Leaving them separate keeps them as separate elements of a phrase or sentence.
-
-This distinction is especially important because Slovura does not require speakers to memorize a compound for every possible concept. If you do not know an established compound—or simply do not want to use one—you can describe the idea using separate roots instead.
-
-This also helps preserve Slovura's compatibility with [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Toki Pona]]. A Toki Pona phrase can be translated using separate corresponding Slovura roots without first turning it into a compound. See [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Slovura and Toki Pona]] for more about this.
 
 ## Compounds Are Descriptions
 
@@ -113,6 +103,6 @@ Lists of established or useful Slovura words should therefore be treated as exam
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 05 - Phrases vs Compounds\|Phrases vs. Compounds]] to see how joining roots changes their interpretation.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 05 - Phrases vs Compounds\|Slovura 05 - Phrases vs Compounds]] to see how joining roots changes their interpretation.
 
 

@@ -77,9 +77,8 @@ The particles [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects
 > - [[Projects/Languages/Slovura/Slovura Roots/li\|li]] separates the subject from the predicate.
 > - Slovura never omits [[Projects/Languages/Slovura/Slovura Roots/li\|li]].
 > - [[Projects/Languages/Slovura/Slovura Roots/e\|e]] introduces a direct object.
-> - [[Projects/Languages/Slovura/Slovura Roots/i\|i]] joins multiple subjects.
 > - Slovura roots do not have fixed English-style parts of speech.
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Compound Words]] to learn how several roots can be combined into a single, more specific concept.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Modifiers\|Slovura 03 - Modifiers]] to learn how to use multiple [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|roots]] to describe more complex concepts.

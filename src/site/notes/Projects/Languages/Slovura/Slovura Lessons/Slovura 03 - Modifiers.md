@@ -81,4 +81,4 @@ The Slovura structure itself remains the same: **head first, description after i
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Compound Words]] to learn how several roots can be joined into a single word and treated as one concept.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Slovura 04 - Compound Words]] to learn how several roots can be joined into a single word and treated as one concept.

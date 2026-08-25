@@ -115,5 +115,5 @@ Knowledge of Toki Pona is not required to learn Slovura. The rest of these lesso
 > - Slovura never omits [[Projects/Languages/Slovura/Slovura Roots/li\|li]].
 > - Slovura's [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compounding]] is optional
 > - use slovura's [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|colour system]] where you would use`loje`, `laso` or `jelo`
-> - you can translate a sentence from Toki Pona to Slovura just by replacing words with their equivalents
+> - Most Toki Pona sentences can be translated directly by substituting equivalent Slovura roots and applying Slovura's few grammatical differences.
 

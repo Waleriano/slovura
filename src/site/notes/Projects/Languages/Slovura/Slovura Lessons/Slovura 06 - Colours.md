@@ -1,11 +1,15 @@
 ---
-{"tags":["slovura","lesson"],"sequence":6,"summary":"example usage of compound words","dg-publish":true,"dg-path":"Slovura Lessons/Slovura 06 - Colours.md","permalink":"/slovura-lessons/slovura-06-colours/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":6,"summary":"example usage of compound words"}}
+{"tags":["slovura","lesson"],"sequence":6,"summary":"practical example showing usage of compound words","dg-publish":true,"dg-path":"Slovura Lessons/Slovura 06 - Colours.md","permalink":"/slovura-lessons/slovura-06-colours/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":6,"summary":"practical example showing usage of compound words"}}
 ---
 
 
 # [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|Slovura 06 - Colours]]
 
-Slovura does not need a separate basic root for every colour. Instead, colours provide a practical example of the [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound-word system]].
+[[Projects/Languages/Slovura/Slovura\|Slovura]] does not need a separate basic [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|root]] for every colour. Instead, colours provide a practical example of the [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compound-word system]].
+
+Colours are an example of a category where Slovura deliberately chooses productive compounds instead of allocating additional roots.
+
+## Word Structure
 
 Colour words are compounds headed by [[Projects/Languages/Slovura/Slovura Roots/ku\|ku]], meaning **colour**. The following root identifies something characteristically associated with that colour.
 
@@ -49,4 +53,4 @@ views:
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 07 - Word Pronunciation\|Slovura 07 - Word Pronunciation]] to learn about pronounciation of Slovura words.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 07 - Word Stress\|Slovura 07 - Word Stress]] to learn about prononciation of Slovura words.

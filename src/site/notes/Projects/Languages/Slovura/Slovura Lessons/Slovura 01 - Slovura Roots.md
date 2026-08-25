@@ -65,4 +65,4 @@ views:
 
 ## Next
 
-Once you understand the idea of roots, continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 02 - Basic Sentence Structure\|Basic Sentence Structure]] to see how they are used in sentences.
+Once you understand the idea of roots, continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 02 - Basic Sentence Structure\|Slovura 02 - Basic Sentence Structure]] to see how they are used in sentences.

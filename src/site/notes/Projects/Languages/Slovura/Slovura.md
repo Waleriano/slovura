@@ -13,7 +13,8 @@ Slovura follows the minimalist semantic approach of [[Projects/Languages/Slovura
 
 - **Monosyllabic roots:** Every basic concept is represented by exactly one syllable (CV or CCV).
 - **Broad meanings:** A root represents a related field of ideas rather than a single English word.
-- **Compounding:** Roots can be joined into a single word to describe more specific concepts.
+- **Head-first modification:** Concepts are made more specific by placing modifiers after them.
+- **Compounding:** Roots can be joined into a single word to describe more specific single concept.
 - **Sound:** Root forms are influenced especially by Czech, English and other source languages where a memorable connection is useful.
 
 ## Etymology
