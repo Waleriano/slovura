@@ -36,8 +36,26 @@ Following Slovura's compound structure, it can be analysed as:
 
 If you are new to Slovura, the lessons are intended to be read in order:
 
-1. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|Slovura Roots]] - list of all slovura roots for reference. Doesn't need to be memorized before continuing.
-2. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 02 - Basic Sentence Structure\|Basic Sentence Structure]] - subjects, predicates, [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects/Languages/Slovura/Slovura Roots/e\|e]].
-3. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Compound Words]] - building complex concepts from roots
-4. [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Colours\|Colours]] - a practical example of productive compounding
+
+```base
+properties:
+  file.name:
+    displayName: Lesson
+  note.summary:
+    displayName: Summary
+views:
+  - type: list
+    name: Lessons
+    filters:
+      and:
+        - file.inFolder("Projects/Languages/Slovura/Slovura Lessons")
+    order:
+      - file.name
+      - summary
+    sort:
+      - property: file.name
+        direction: ASC
+
+```
+
 

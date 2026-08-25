@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":8,"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 08 - Multiple Subjects and Predicates.md","permalink":"/slovura-lessons/slovura-08-multiple-subjects-and-predicates/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":8}}
+{"tags":["slovura","lesson"],"sequence":8,"summary":"create sentences with multiple subjects, objects or predicates","dg-publish":true,"dg-path":"Slovura Lessons/Slovura 08 - Multiple Subjects and Predicates.md","permalink":"/slovura-lessons/slovura-08-multiple-subjects-and-predicates/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":8,"summary":"create sentences with multiple subjects, objects or predicates"}}
 ---
 
 

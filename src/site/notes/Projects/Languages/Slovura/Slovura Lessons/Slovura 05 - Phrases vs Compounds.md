@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":5,"aliases":["Phrases vs Compounds","Phrases and Compounds"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 05 - Phrases vs Compounds.md","permalink":"/slovura-lessons/slovura-05-phrases-vs-compounds/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":5,"aliases":["Phrases vs Compounds","Phrases and Compounds"]}}
+{"tags":["slovura","lesson"],"sequence":5,"summary":"difference between modifiers and words","aliases":["Phrases vs Compounds","Phrases and Compounds"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 05 - Phrases vs Compounds.md","permalink":"/slovura-lessons/slovura-05-phrases-vs-compounds/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":5,"summary":"difference between modifiers and words","aliases":["Phrases vs Compounds","Phrases and Compounds"]}}
 ---
 
 

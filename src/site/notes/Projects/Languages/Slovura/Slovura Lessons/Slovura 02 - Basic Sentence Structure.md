@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":2,"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 02 - Basic Sentence Structure.md","permalink":"/slovura-lessons/slovura-02-basic-sentence-structure/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":2}}
+{"tags":["slovura","lesson"],"sequence":2,"summary":"subjects, predicates, objects, [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects/Languages/Slovura/Slovura Roots/e\|e]]","dg-publish":true,"dg-path":"Slovura Lessons/Slovura 02 - Basic Sentence Structure.md","permalink":"/slovura-lessons/slovura-02-basic-sentence-structure/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":2,"summary":"subjects, predicates, objects, [[Projects/Languages/Slovura/Slovura Roots/li\|li]] and [[Projects/Languages/Slovura/Slovura Roots/e\|e]]"}}
 ---
 
 

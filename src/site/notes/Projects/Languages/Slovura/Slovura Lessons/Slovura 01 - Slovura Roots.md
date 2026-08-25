@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 01 - Slovura Roots.md","permalink":"/slovura-lessons/slovura-01-slovura-roots/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":1,"aliases":["roots"]}}
+{"tags":["slovura","lesson"],"sequence":1,"summary":"list of all slovura roots for reference, doesn't need to be memorized before continuing","aliases":["roots"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 01 - Slovura Roots.md","permalink":"/slovura-lessons/slovura-01-slovura-roots/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":1,"summary":"list of all slovura roots for reference, doesn't need to be memorized before continuing","aliases":["roots"]}}
 ---
 
 

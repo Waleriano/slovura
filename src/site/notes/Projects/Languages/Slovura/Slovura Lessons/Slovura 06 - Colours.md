@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":6,"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 06 - Colours.md","permalink":"/slovura-lessons/slovura-06-colours/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":6}}
+{"tags":["slovura","lesson"],"sequence":6,"summary":"example usage of compound words","dg-publish":true,"dg-path":"Slovura Lessons/Slovura 06 - Colours.md","permalink":"/slovura-lessons/slovura-06-colours/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":6,"summary":"example usage of compound words"}}
 ---
 
 

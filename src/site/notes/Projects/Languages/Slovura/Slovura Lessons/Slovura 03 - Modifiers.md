@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":3,"aliases":["Modifiers"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 03 - Modifiers.md","permalink":"/slovura-lessons/slovura-03-modifiers/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":3,"aliases":["Modifiers"]}}
+{"tags":["slovura","lesson"],"sequence":3,"summary":"use multiple roots to describe more specific concepts","aliases":["Modifiers"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 03 - Modifiers.md","permalink":"/slovura-lessons/slovura-03-modifiers/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":3,"summary":"use multiple roots to describe more specific concepts","aliases":["Modifiers"]}}
 ---
 
 

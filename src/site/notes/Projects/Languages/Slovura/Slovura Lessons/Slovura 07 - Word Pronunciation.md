@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":7,"aliases":["Pronunciation","Stress"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 07 - Word Pronunciation.md","permalink":"/slovura-lessons/slovura-07-word-pronunciation/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":7,"aliases":["Pronunciation","Stress"]}}
+{"tags":["slovura","lesson"],"sequence":7,"summary":"Pronunciation of modifiers and compound words","aliases":["Pronunciation","Stress"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 07 - Word Pronunciation.md","permalink":"/slovura-lessons/slovura-07-word-pronunciation/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":7,"summary":"Pronunciation of modifiers and compound words","aliases":["Pronunciation","Stress"]}}
 ---
 
 
