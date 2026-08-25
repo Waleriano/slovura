@@ -49,4 +49,4 @@ views:
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 05 - Slovura and Toki Pona\|Slovura 05 - Slovura and Toki Pona]] if you want to learn differences between Slovura and Toki Pona or skip to [[Projects/Languages/Slovura/Slovura Lessons/Slovura 06 - Advanced Sentences\|Slovura 06 - Advanced Sentences]] to learn about structure of advances slovura sentences.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 05 - Word Pronounciation\|Slovura 05 - Word Pronounciation]] to learn about pronounciation of Slovura words.

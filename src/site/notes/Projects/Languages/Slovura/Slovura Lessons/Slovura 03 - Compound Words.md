@@ -75,7 +75,7 @@ Leaving them separate keeps them as separate elements of a phrase or sentence.
 
 This distinction is especially important because Slovura does not require speakers to memorize a compound for every possible concept. If you do not know an established compound—or simply do not want to use one—you can describe the idea using separate roots instead.
 
-This also helps preserve Slovura's compatibility with [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]]. A Toki Pona phrase can be translated using separate corresponding Slovura roots without first turning it into a compound. See [[Projects/Languages/Slovura/Slovura Lessons/Slovura 05 - Slovura and Toki Pona\|Slovura 05 - Slovura and Toki Pona]] for more about this.
+This also helps preserve Slovura's compatibility with [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Toki Pona]]. A Toki Pona phrase can be translated using separate corresponding Slovura roots without first turning it into a compound. See [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Slovura and Toki Pona]] for more about this.
 
 ## Compounds Are Descriptions
 

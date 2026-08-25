@@ -34,7 +34,7 @@ In Slovura, the subject and predicate are separated by the particle [[Projects/L
 > [!note] Basic Slovura sentence
 > **subject** [[Projects/Languages/Slovura/Slovura Roots/li\|li]] **predicate**
 
-Unlike in [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]], where [[Projects/Languages/Slovura/Slovura Roots/li\|li]] is omitted when the subject is only first- or second-person singular, **[[Projects/Languages/Slovura/Slovura Roots/li\|li]] is never omitted in Slovura**. This keeps the sentence structure regular.
+Unlike in [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Toki Pona]], where [[Projects/Languages/Slovura/Slovura Roots/li\|li]] is omitted when the subject is only first- or second-person singular, **[[Projects/Languages/Slovura/Slovura Roots/li\|li]] is never omitted in Slovura**. This keeps the sentence structure regular.
 
 
 ## Object

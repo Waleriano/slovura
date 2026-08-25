@@ -5,11 +5,11 @@
 
 # [[Projects/Languages/Slovura/Slovura\|Slovura]]
 
-**Slovura** is a minimalist constructed language derived from [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]] and **Kawaba**. Its basic concepts are represented by short, monosyllabic roots which can be combined into larger words with predictable internal structure.
+**Slovura** is a minimalist constructed language derived from [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Toki Pona]] and **Kawaba**. Its basic concepts are represented by short, monosyllabic roots which can be combined into larger words with predictable internal structure.
 
 ## Philosophy and Structure
 
-Slovura follows the minimalist semantic approach of [[Projects/Languages/Toki Pona/Toki Pona\|Toki Pona]], but puts greater emphasis on compact roots and systematic compounding.
+Slovura follows the minimalist semantic approach of [[Projects/Languages/Slovura/Slovura Resources/Slovura and Toki Pona\|Toki Pona]], but puts greater emphasis on compact roots and systematic compounding.
 
 - **Monosyllabic roots:** Every basic concept is represented by exactly one syllable (CV or CCV).
 - **Broad meanings:** A root represents a related field of ideas rather than a single English word.
