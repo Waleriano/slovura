@@ -1,11 +1,11 @@
 ---
-{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["Compound Words","Building Words"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 04 - Compound Words.md","permalink":"/slovura-lessons/slovura-04-compound-words/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["Compound Words","Building Words"]}}
+{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["compound words","building words"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 04 - Compound Words.md","permalink":"/slovura-lessons/slovura-04-compound-words/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["compound words","building words"]}}
 ---
 
 
 # [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|Slovura 04 - Compound Words]]
 
-[[Projects/Languages/Slovura/Slovura\|Slovura]] has a small set of basic [[roots\|roots]], but those roots can be combined to express much more specific concepts.
+[[Projects/Languages/Slovura/Slovura\|Slovura]] has a small set of basic [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|roots]], but those roots can be combined to express much more specific concepts.
 
 Unlike a normal phrase, a **compound word is written as a single word**. Its roots form an internal structure following the same basic idea as a sentence:
 

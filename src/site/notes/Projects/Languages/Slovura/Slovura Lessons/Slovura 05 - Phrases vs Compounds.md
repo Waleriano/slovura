@@ -10,7 +10,7 @@ The previous two lessons introduced two different ways of combining ideas:
 - [[Projects/Languages/Slovura/Slovura Lessons/Slovura 03 - Modifiers\|modifiers]] use **separate words** to describe a head;
 - [[Projects/Languages/Slovura/Slovura Lessons/Slovura 04 - Compound Words\|compounds]] join roots into **one word and one concept**.
 
-The same [[roots\|roots]] can therefore express something different depending on whether they remain separate or are joined.
+The same [[Projects/Languages/Slovura/Slovura Lessons/Slovura 01 - Slovura Roots\|roots]] can therefore express something different depending on whether they remain separate or are joined.
 
 ## `ka sta` and `kasta`
 
@@ -107,7 +107,7 @@ An analygy can be found in English which sometimes makes a similar distinction:
 >
 > **blackbird** — a single concept expressed as one word
 
-Slovura uses this distinction productively. Whether roots are separate or joined tells the listener how the speaker intends them to be grouped.
+[[Projects/Languages/Slovura/Slovura\|Slovura]] uses this distinction productively. Whether roots are separate or joined tells the listener how the speaker intends them to be grouped.
 
 ## Remember
 

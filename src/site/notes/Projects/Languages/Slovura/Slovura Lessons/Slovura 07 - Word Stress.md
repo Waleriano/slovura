@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":7,"summary":"word stress and how it marks word boundaries","aliases":["Stress"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 07 - Word Stress.md","permalink":"/slovura-lessons/slovura-07-word-stress/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":7,"summary":"word stress and how it marks word boundaries","aliases":["Stress"]}}
+{"tags":["slovura","lesson"],"sequence":7,"summary":"word stress and how it marks word boundaries","aliases":["stress"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 07 - Word Stress.md","permalink":"/slovura-lessons/slovura-07-word-stress/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":7,"summary":"word stress and how it marks word boundaries","aliases":["stress"]}}
 ---
 
 
@@ -52,4 +52,4 @@ The roots themselves do not change. Stress simply provides an audible indication
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 08 - Multiple Subjects and Predicates\|Slovura 08 - Multiple Subjects and Predicates]] to learn how Slovura sentences can contain more than one subject, predicate or object.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 08 - Multiple Subjects, Predicates and Objects\|Slovura 08 - Multiple Subjects, Predicates and Objects]] to learn how Slovura sentences can contain more than one subject, predicate or object.
