@@ -1,5 +1,5 @@
 ---
-{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["compound words","building words"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 04 - Compound Words.md","permalink":"/slovura-lessons/slovura-04-compound-words/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["compound words","building words"]}}
+{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["compound words","compounds","building words"],"dg-publish":true,"dg-path":"Slovura Lessons/Slovura 04 - Compound Words.md","permalink":"/slovura-lessons/slovura-04-compound-words/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["slovura","lesson"],"sequence":4,"summary":"join multiple roots together to create words","aliases":["compound words","compounds","building words"]}}
 ---
 
 

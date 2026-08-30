@@ -95,4 +95,4 @@ The default grouping differs, but `pi` has the same basic function: **it explici
 
 ## Next
 
-Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 10 - Compounding Exceptions\|Slovura 10 - Compounding Exceptions]] to learn about roots that can change the normal grouping of a compound.
+Continue with [[Projects/Languages/Slovura/Slovura Lessons/Slovura 10 - Whole-Word Modifiers\|Slovura 10 - Whole-Word Modifiers]] to learn about roots that can change the normal grouping of a compound.
