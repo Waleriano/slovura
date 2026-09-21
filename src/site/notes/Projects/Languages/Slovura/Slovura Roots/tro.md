@@ -16,7 +16,7 @@ views:
     name: RootWords
     filters:
       and:
-        - note.roots.Contains(this.file.name)
+        - note.roots.Contains(link(this.file.name))
     order:
       - file.name
       - meaning
