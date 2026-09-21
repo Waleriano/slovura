@@ -1,5 +1,5 @@
 ---
-{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slo\|slo]]","[[Projects/Languages/Slovura/Slovura Roots/vu\|vu]]","[[Projects/Languages/Slovura/Slovura Roots/ra\|ra]]"],"meaning":"language of useful parts","logic":"language + part + useful","dg-home":true,"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slo]]","[[Projects/Languages/Slovura/Slovura Roots/vu]]","[[Projects/Languages/Slovura/Slovura Roots/ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
+{"roots":["[[slo]]","[[vu]]","[[ra]]"],"meaning":"language of useful parts","logic":"language + part + useful","dg-home":true,"dg-publish":true,"dg-path":"Slovura.md","permalink":"/slovura/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"roots":["[[Projects/Languages/Slovura/Slovura Roots/slo]]","[[Projects/Languages/Slovura/Slovura Roots/vu]]","[[Projects/Languages/Slovura/Slovura Roots/ra]]"],"meaning":"language of useful parts","logic":"language + part + useful"}}
 ---
 
 
